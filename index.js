@@ -1,0 +1,1 @@
+throw new Error('This is a private package. Please use private repository.');
